@@ -1,22 +1,15 @@
-# comment_parser
-test task for brlab
-
-Спарсить отзывы о Лиге Ставок из Отзовика.
-
+# Test task from Brlab
+_Спарсить отзывы о Лиге Ставок.
 Код на Python, желательно с комментариями. Библиотеки на твой выбор. Обертка, API и прочее не нужно.
-
 ООП - по желанию.
-
 Тип файла - CSV.
-
 Формат выходных данных:
-
 Имя букмекера, текст отзыва, время отзыва, оценка, источник отзыва, имя пользователя, плюсы, минусы.
-
-Текст отзыва должен содержать плюсы, минусы и комментарий.
+Текст отзыва должен содержать плюсы, минусы и комментарий._
 
 Ссылка:
+https://bookmaker-ratings.ru/review/obzor-bukmekerskoj-kontory-ligastavok/all-feedbacks/
 
-https://otzovik.com/reviews/bukmekerskaya_kontora_liga_stavok/
+**Запускать из директории comment_parser файл main.py**
 
-
+**CSV файлы сохраняются в директории csv_reports**
